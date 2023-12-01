@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML
-- 📫 How to reach me vivek.singhzee02@gmail.com
+- 📫 How to reach me contact.vivvekkumar@gmail.com
 
 <!---
 see-vivek/see-vivek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
